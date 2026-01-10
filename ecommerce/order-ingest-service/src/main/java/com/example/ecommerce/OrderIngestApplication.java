@@ -1,0 +1,1 @@
+package com.example.ecommerce; public class OrderIngestApplication { public static void main(String[] a){} }
