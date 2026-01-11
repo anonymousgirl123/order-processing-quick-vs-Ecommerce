@@ -12,7 +12,9 @@ The goal is to demonstrate **systems thinking** by translating **business promis
 <img width="613" height="453" alt="image" src="https://github.com/user-attachments/assets/8a94f9f5-9abe-49da-bf7e-34339a32af84" />
 
 ### Core Idea
- Use of Slot Reservation for quick commerce while payment initiation
+ #### Use of Slot Reservation for quick commerce while payment initiation
+ The order API synchronously reserves inventory in Redis using TTL-based reservation tokens. Only after the reservation succeeds do we persist the order and emit Kafka events. A background reaper reconciles expired reservations to prevent stock leaks.
+ 
    #### High-level diagram of order processing flow
    
   <img width="871" height="394" alt="image" src="https://github.com/user-attachments/assets/1bb70d9b-ff72-4cc6-987e-60b272de9e21" />
