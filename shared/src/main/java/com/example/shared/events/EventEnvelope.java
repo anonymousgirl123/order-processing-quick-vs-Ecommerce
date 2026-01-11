@@ -1,1 +1,1 @@
-package com.example.shared.events; public record EventEnvelope<T>(String id,String type,int v,java.time.Instant t,T p){}
+package com.example.shared.events; import java.time.*; public record EventEnvelope<T>(String id,String type,int v,Instant t,T p){}
