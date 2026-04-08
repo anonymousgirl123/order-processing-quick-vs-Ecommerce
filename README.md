@@ -179,7 +179,7 @@ CAP bias | AP-leaning | CP-leaning |
 
 This project highlights why:
 - tools cannot be blindly reused
-- architecture must follow business reality
+- Architecture must follow business reality
 - consistency, latency, and cost are always tradeoffs
 
 ---
