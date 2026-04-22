@@ -199,5 +199,3 @@ This project intentionally focuses on **thinking**, not implementation.
 > A comparative system design study showing how e-commerce and quick-commerce architectures diverge due to fundamentally different business promises.
 
 ---
-
-
