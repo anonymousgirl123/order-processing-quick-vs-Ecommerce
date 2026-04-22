@@ -5,6 +5,7 @@ This project is a **design-focused system architecture study** that compares how
 
 The goal is to demonstrate **systems thinking** by translating **business promises** into **technical design decisions**.
 
+
 <img width="605" height="599" alt="image" src="https://github.com/user-attachments/assets/3ab1c4f2-d9fa-41c9-8403-5a8404fd469c" />
 
 <img width="613" height="453" alt="image" src="https://github.com/user-attachments/assets/8a94f9f5-9abe-49da-bf7e-34339a32af84" />
