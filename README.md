@@ -1,6 +1,6 @@
 # E-Commerce vs Quick-Commerce  
 ## A System Design & Architecture Comparison
-
+ 
 This project is a **design-focused system architecture study** that compares how **e-commerce** and **quick-commerce** platforms differ at a fundamental level — not in UI, but in **backend architecture, data consistency, scalability, and operational complexity**.
 
 The goal is to demonstrate **systems thinking** by translating **business promises** into **technical design decisions**.
